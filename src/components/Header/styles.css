@@ -1,0 +1,19 @@
+.player-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 0 60px;
+    min-height: 1000px;
+    padding: 0 5%;
+    position: fixed; 
+    top: 90px; 
+    width: 100%; 
+    z-index: 99;
+    margin-top: 50px;
+}
+
+.react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
