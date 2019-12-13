@@ -4,7 +4,7 @@ import ReactPlayer from 'react-player';
 
 function Header() {
     return (
-        <div id='player' className="player-wrapper">
+        <div id='Home' className="player-wrapper">
         <ReactPlayer
             className="react-player" 
             url='"https://www.youtube.com/embed/bN_xq5Yi8Lw"' 

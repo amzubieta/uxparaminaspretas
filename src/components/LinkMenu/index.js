@@ -17,7 +17,7 @@ class LinkMenu extends React.Component {
                 />
                     <ul className='navbar-links'>
                         <li>
-                        <a href="#player">Home</a>
+                        <a href="#Home">Home</a>
                         </li>
                         <li>
                         <a href="#fondo">Quiene Somos</a>        
